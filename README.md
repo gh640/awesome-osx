@@ -52,7 +52,7 @@
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - 「ロスレス」な各種音声ファイルを Rip/デコード/変換/再生する。 [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
 
 
-### Bookmark ユーティリティ  {#bookmark-utilities}
+### ブックマークユーティリティ  {#bookmark-utilities}
 
 - [ReadKit](http://readkitapp.com/) - Instapaper や Pocket 等のフィードをすべて一箇所に保存する。オフラインでも利用可。
 - [Spillo](http://bananafishsoftware.com/products/spillo/) - 強力で美しく素早いピンボードクライアント。
